@@ -42,7 +42,7 @@ li:hover {
 }
 
 img {
-    height: 400px;
+    height: 450px;
     width: 100%;
     opacity: 70%;
 
@@ -70,6 +70,15 @@ p {
     text-align: justify;
     padding: 25px 20% ;
     font-size: 16px;    
+}
+
+.matriculas p {
+    text-align: center;
+}
+
+
+.pagamento p {
+    text-align: center;
 }
 
 footer {
@@ -104,6 +113,8 @@ a {
         padding: 25px 5%;
         
     }
+
+   
 
     footer {
         width: auto;
